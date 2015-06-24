@@ -10,7 +10,7 @@
         labels: ['Gouvernance', 'Contribution', 'Partage', 'Juridique', 'Financement', 'Partenaires'],
         datasets: [
           {
-            data: [300, 300, 350, 400, 200, 400]
+            data: [300, 100, 350, 400, 200, 400]
           }
         ]
       };
