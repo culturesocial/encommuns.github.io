@@ -13,7 +13,7 @@ module.controller("TestCtrl", ($scope) =>
         ]
       datasets: [
         {
-          data: [350, 400, 200,400,300,200,180]
+          data: [350, 400, 200,400,300,200]
         }            
       ]
     }
