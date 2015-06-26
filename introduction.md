@@ -5,7 +5,7 @@ Mais nous avons les mêmes enjeux, les mêmes partenaires, la même volonté de 
 
 Comment connaître ce qui se fait ailleurs, essaimer et s'aimer !
 
-Y a t'il exigence d'un mode opératoire ? Doit-on parler d'"objet globalement mimétique" (OGM) ou au contraire de sur mesure ? Comment le faire connaître ? Comment faire de cet outil un moyen de développement des projets entre artistes, structures sociales et culturelles ? 
+Y a t'il exigence d'un mode opératoire ? Comment le faire connaître ? Comment faire de cet outil un moyen de développement des projets entre artistes, structures sociales et culturelles ? 
 
 
 
